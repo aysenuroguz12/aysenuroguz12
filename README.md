@@ -1,12 +1,19 @@
- Merhaba Ben Ayşenur
+Merhaba Ben Ayşenur.
 
-Düzce Üniversitesi Yönetim Bilişim Sistemleri (MIS) öğrencisiyim. Yazılım geliştirme, veri tabanı yönetimi ve web teknolojileri alanlarında kendimi geliştiriyor; okul projelerim ile bireysel çalışmalarımı bu hesapta paylaşıyorum.
+Düzce Üniversitesi Yönetim Bilişim Sistemleri (MIS) öğrencisiyim. Yazılım geliştirme, veri tabanı yönetimi ve web teknolojileri alanlarında kendimi geliştiriyor; okul projelerimi ve bireysel çalışmalarımı bu hesapta paylaşıyorum.
 
-###  Neler Yapıyorum?
-*   **Python & Veri Tabanı:** Python ile otomasyon betikleri, mantıksal uygulamalar ve SQL tabanlı veritabanı çalışmaları gerçekleştiriyorum.
-*   **Web Geliştirme:** HTML, CSS ve JavaScript kullanarak çok sayfalı, kullanıcı dostu arayüzler tasarlıyorum.
+Neler Yapıyorum?
+
+Python ile otomasyon betikleri ve SQL tabanlı veri tabanı çalışmaları gerçekleştiriyorum.
+
+HTML, CSS ve JavaScript kullanarak çok sayfalı, kullanıcı dostu web arayüzleri tasarlıyorum.
 
 
+
+
+E-posta: [E-posta Adresin]
 ### Bana Nasıl Ulaşabilirsiniz?
 *   **GitHub:** [@aysenuroguz12](https://github.com/aysenuroguz12)
+*  ** LinkedIn:** [www.linkedin.com/in/ayşenur-oğuz-4a0b71298]
+*  ** e-posta:** [aysnrogz.12@gmail.com]
 
