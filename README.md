@@ -14,6 +14,6 @@ HTML, CSS ve JavaScript kullanarak çok sayfalı, kullanıcı dostu web arayüzl
 E-posta: [E-posta Adresin]
 ### Bana Nasıl Ulaşabilirsiniz?
 *   **GitHub:** [@aysenuroguz12](https://github.com/aysenuroguz12)
-*  ** LinkedIn:** [www.linkedin.com/in/ayşenur-oğuz-4a0b71298]
+
 *  ** e-posta:** [aysnrogz.12@gmail.com]
 
