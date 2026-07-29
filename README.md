@@ -8,5 +8,5 @@ Düzce Üniversitesi Yönetim Bilişim Sistemleri (MIS) öğrencisiyim. Yazılı
 
 
 ### Bana Nasıl Ulaşabilirsiniz?
-*   **GitHub:** [@aysenurogur12](https://github.com/aysenurogur12)
+*   **GitHub:** [@aysenuroguz12](https://github.com/aysenuroguz12)
 
