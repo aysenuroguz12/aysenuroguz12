@@ -15,5 +15,5 @@ E-posta: [E-posta Adresin]
 ### Bana Nasıl Ulaşabilirsiniz?
 *   **GitHub:** [@aysenuroguz12](https://github.com/aysenuroguz12)
 
-*  ** e-posta:** [aysnrogz.12@gmail.com]
+
 
